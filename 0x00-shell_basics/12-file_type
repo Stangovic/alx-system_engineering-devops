@@ -1,2 +1,2 @@
- #!/bin/bash
- file iamfile
+#!/bin/bash
+file iamfile.txt
