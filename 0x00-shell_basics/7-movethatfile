@@ -1,0 +1,3 @@
+#!/bin/bash
+ls /tmp/my_first_directory/
+betty
